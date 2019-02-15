@@ -1,7 +1,5 @@
 # Computer Science Web Resources
 
-![alt text](https://i.imgur.com/yuAUJtQ.png "")
-
 A curated list of *Important Computer Science* **multiple languages resources** found on the Web.
 
 **Upcoming:** Erlang, C#, Virtual Reality, Computer Graphics
